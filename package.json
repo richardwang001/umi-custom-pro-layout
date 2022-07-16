@@ -8,7 +8,9 @@
     "start": "npm run dev"
   },
   "dependencies": {
+    "@alita/plugins": "^3.0.7",
     "@ant-design/pro-components": "^1.1.10",
+    "@umijs/plugins": "^4.0.7",
     "umi": "^4.0.7"
   },
   "devDependencies": {
