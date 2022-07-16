@@ -17,9 +17,9 @@ export default () => {
     location: {
       pathname,
     },
-    navTheme: 'light',
+    navTheme: 'dark',
     collapsed,
-    title: 'XXXX标题',
+    title: 'XXXXXX标题XXXXXX',
     fixSiderbar: true,
     fixedHeader:true,
     collapsedButtonRender: false,
